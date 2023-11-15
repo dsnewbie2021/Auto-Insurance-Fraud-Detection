@@ -7,7 +7,7 @@ seaborn==0.11.2
 imblearn==0.0
 joblib==1.3.1
 json5==0.9.14
-Pyyaml==23.7.0
+Pyaml==23.7.0
 requests==2.27.1
 fastapi==0.100.0
 pydantic==1.10.11
@@ -18,3 +18,4 @@ ydata-profiling==4.3.1
 klib==1.0.7
 xgboost==1.7.6
 scikit-optimize==0.9.0
+ppscore==1.3.0
